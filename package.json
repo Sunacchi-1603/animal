@@ -1,0 +1,14 @@
+{
+  "name": "1-commit",
+  "version": "1.0.0",
+  "description": "This project is just a demo hơ to use git // git init khoi tao // git status kiem tra trang thai // git add them vao // git commit dong goi cac tep da add vao 1 hop vaf dan cho no 1 cai ten",
+  "main": "cat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
